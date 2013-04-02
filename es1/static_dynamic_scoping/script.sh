@@ -1,3 +1,4 @@
+# What does it prints?
 
 x=1
 function g () { 
